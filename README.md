@@ -31,3 +31,4 @@ I'm a passionate web developer and dedicated software quality assurance enthusia
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![An image of @divsansi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divsansi)](https://holopin.io/@divsansi)
