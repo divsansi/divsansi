@@ -31,5 +31,15 @@ I'm a passionate web developer and dedicated software quality assurance enthusia
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+# 🏅 Achievements
+
+[<img src="https://api.badgr.io/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ/image" width="120" height="120" align="left" style="margin: 10">](https://api.badgr.io/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ?identity__email=methmisehansa15@gmail.com)
+
+**Postman API Fundamentals Student Expert**
+
+**Awarded:** Oct 30, 2024
+
+[VERIFY](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FfnjSkkNCSgmnd9JiuyfgrQ%3Fidentity__email%3Dmethmisehansa15%2540gmail.com&identity__email=methmisehansa15@gmail.com)
+
 [![An image of @divsansi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divsansi)](https://holopin.io/@divsansi)
-[![API and Postman Badge]<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ?identity__email=methmisehansa15%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Oct 30, 2024</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FfnjSkkNCSgmnd9JiuyfgrQ%3Fidentity__email%3Dmethmisehansa15%2540gmail.com&amp;identity__email=methmisehansa15%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
