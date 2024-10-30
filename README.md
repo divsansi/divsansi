@@ -33,13 +33,21 @@ I'm a passionate web developer and dedicated software quality assurance enthusia
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 # 🏅 Achievements
+<div align="center">
 
-[<img src="https://api.badgr.io/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ/image" width="120" height="120" align="left" style="margin: 10">](https://api.badgr.io/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ?identity__email=methmisehansa15@gmail.com)
+  [<img src="https://media.badgr.com/uploads/badges/assertion-dzq5tQ2nSDOkqFRsz5Qcqw.png" width="150" height="150" style="margin: 10;">](https://badgr.com/backpack/badges/6721d4bb74b60a50e431822a)
 
-**Postman API Fundamentals Student Expert**
+  <p>
+    <strong>Postman API Fundamentals Student Expert</strong><br>
+    <strong>Awarded:</strong> Oct 30, 2024<br>
+    <a href="https://badgr.com/public/assertions/fnjSkkNCSgmnd9JiuyfgrQ?identity__email=methmisehansa15@gmail.com" style="display: inline-block; background-color: #007BFF; color: white; padding: 12px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; border: 1px solid transparent; transition: background-color 0.3s ease;">
+      VERIFY
+    </a>
+  </p>
 
-**Awarded:** Oct 30, 2024
+</div>
 
-[VERIFY](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FfnjSkkNCSgmnd9JiuyfgrQ%3Fidentity__email%3Dmethmisehansa15%2540gmail.com&identity__email=methmisehansa15@gmail.com)
+
+
 
 [![An image of @divsansi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divsansi)](https://holopin.io/@divsansi)
