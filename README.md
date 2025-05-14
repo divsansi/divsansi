@@ -1,4 +1,4 @@
-![Header Image](https://github.com/divsansi/DivyangiSansala/blob/main/divsansi.png)
+
 
 # 🤩 Hello There! Wellcome to my Github Profile 👋
 
